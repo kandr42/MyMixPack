@@ -1,0 +1,6 @@
+@import url("https://mixter213.github.io/Discord/Code/MixPack.css");
+
+body {
+  background: url("https://i.postimg.cc/gJ1kn3NB/zvezdy-zvezdnoe-nebo-noch-118027-1920x1080.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
