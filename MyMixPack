@@ -4,3 +4,27 @@ body {
   background: url("https://i.postimg.cc/gJ1kn3NB/zvezdy-zvezdnoe-nebo-noch-118027-1920x1080.jpg") no-repeat center center fixed;
   background-size: cover;
 }
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MyMixPack</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background: linear-gradient(to right, #ff7e5f, #feb47b);
+      font-family: Arial, sans-serif;
+      color: #fff;
+      text-align: center;
+    }
+    h1 {
+      margin-top: 20%;
+    }
+  </style>
+</head>
+<body>
+  <h1>Добро пожаловать в MyMixPack!</h1>
+</body>
+</html>
